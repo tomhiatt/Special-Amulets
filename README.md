@@ -1,6 +1,7 @@
 # Special-Amulets
 A book series for 10-year-olds  
 
+
 ## Premise
 Two young siblings own amulets from their mysterious and adventurous great Grandmother. When they touch them together they transport to some new place either from their Grandma's many travels, the burgeoning legends about her, or one of her whymsical science fiction stories that she made up to pass the time on long voyages. When they are transported their amulets leave them and they must find them in order to get back home. Somehow there are always just enough clues to find them while learning a bit more about their extraordinary Granny Florence.
 
