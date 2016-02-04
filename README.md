@@ -1,5 +1,5 @@
 # Special-Amulets
-A book series for 10-year-olds
+A book series for 10-year-olds  
 
 ### Premise
 ### Story structure

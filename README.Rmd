@@ -1,0 +1,14 @@
+---
+title: "Special-Amulets"
+author: "A book series for 10-year-olds"
+output: 
+  html_document: 
+    keep_md: yes
+    toc: yes
+---
+
+### Premise
+### Story structure
+### Limits and rules
+### Mechanics for publishing
+### Who made this thing?
